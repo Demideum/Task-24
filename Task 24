@@ -48,11 +48,6 @@ namespace IJunior_Task24
 
                         sumArray = 0;
                     }
-
-                    else if (userInput == "exit")
-                    {
-                        break;
-                    }
                 }
             }
         }
